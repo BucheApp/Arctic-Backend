@@ -5,8 +5,11 @@ This project is a marketplace application. You can buy and sell **digital conten
 You can create your own market page as you like.
 
 ## Technology
-This application uses React and Vite for the frontend, and Spring Boot for the backend.
-The backend program repository is [here](https://github.com/BucheApp/Arctic-Repository-Backend).
+### Frontend:
+[React](https://react.dev/) , [SWR](https://swr.vercel.app/) , [React Router](https://reactrouter.com/) , [Vite](https://vite.dev/) , [TypeScript](https://www.typescriptlang.org/)
+
+### Backend:
+[Spring Boot](https://spring.io/projects/spring-boot) , [Spring WebFlux](https://docs.spring.io/spring-framework/reference/web/webflux.html) , [Thymeleaf](https://www.thymeleaf.org/) , [MySQL](https://www.mysql.com/)
 
 ## Definition
 - User  
